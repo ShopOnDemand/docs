@@ -22,8 +22,8 @@
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "name": "CS Dashboard",
+    "url": "https://app.campsoft.ch"
   },
   "tabs": [
     {
@@ -33,9 +33,9 @@
   ],
   "anchors": [
     {
-      "name": "Documentation",
+      "name": "CampSOft Dashboard",
       "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "url": "https://app.campsoft.ch"
     },
     {
       "name": "Community",
@@ -45,7 +45,7 @@
     {
       "name": "Blog",
       "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "url": "https://campsoft.ch/blog"
     }
   ],
   "navigation": [
@@ -54,7 +54,8 @@
       "pages": [
         "introduction",
         "quickstart",
-        "development"
+        "development",
+        "maximale-buchungszeitraum"
       ]
     },
     {
